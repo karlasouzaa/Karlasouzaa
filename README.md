@@ -6,10 +6,10 @@ Estudante de Análise e Desenvolvimento de Sistemas, focada em aprender desenvol
 - 📚Análise e Desenvolvimento de Sistemas 
   - Previsão de Formatura: Dez de 2027
 
- 🛠️ Habilidades & Tecnologias
--Ferramentas de Produtividade & IA: NotebookLM, Engenharia de Prompts, Gemini.
--Controle de Versão:Git e GitHub.
--Conceitos: Aprendizagem Baseada em Projetos (ABP), Análise de Sistemas, Documentação Técnica.
+🛠️ Habilidades & Tecnologias
+- Ferramentas de Produtividade & IA: NotebookLM, Engenharia de Prompts, Gemini.
+- Controle de Versão: Git e GitHub.
+- Conceitos: Aprendizagem Baseada em Projetos (ABP), Análise de Sistemas, Documentação Técnica.
 
 🎓 Certificações & Cursos
 

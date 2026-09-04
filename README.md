@@ -1,4 +1,5 @@
 👋 Olá, eu sou Karla Souza!
+
 Estudante de ADS, desenvolvendo projetos em Python, análise de dados e Inteligência Artificial. Atualmente aprofundando meus conhecimentos em desenvolvimento de software, Git/GitHub, SQL e aplicações com IA
 
 🎓 Formação Acadêmica

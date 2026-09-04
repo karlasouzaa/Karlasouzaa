@@ -18,5 +18,5 @@ Estudante de Análise e Desenvolvimento de Sistemas, focada em aprender desenvol
 - 🏆 Fundamentos da IA moderna: Machine Learning, LLMs,IA Generativa e Agentes | [ver certificado](https://hermes.dio.me/certificates/OPXPJFAA.pdf)
 - 🏆 Introdução à engenharia de prompts | [ver certificado](https://hermes.dio.me/certificates/1E8BGQNU.pdf)
 - 🏆 Treinando uma IA de aprendizagem: explore o poder do notbookLM | [ver certificado](https://hermes.dio.me/certificates/WXLLLACP.pdf)
-- 🎓 Análise e Desenvolvimento de Sistemas — Faculdade | Em andamento
+
 
